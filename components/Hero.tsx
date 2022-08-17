@@ -5,7 +5,7 @@ export default function Hero(){
                  style={{backgroundImage: "url(https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);"}}>
                 <div className="flex items-center justify-center w-full h-full bg-gray-900 bg-opacity-50">
                     <div className="text-center">
-                        <h1 className="text-4xl font-semibold text-white uppercase lg:text-5xl">Learn In Demand Skills <div
+                        <h1 className="text-3xl font-semibold text-white uppercase lg:text-5xl">Learn In Demand Skills <div
                             className="text-indigo-400 mt-2">Build Your Career.</div></h1>
                         <p className="mt-6 font-light text-zinc-100 md:text-xl">The most efficient and supportive way for you to learn in-demand skills, get hired, and advance your career.</p>
                         <button

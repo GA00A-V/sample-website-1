@@ -5,7 +5,7 @@ interface propTypes{
 }
 export default function Course({title, author, image}:propTypes){
     return(
-        <div className="max-w-xs pb-6 mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-700">
+        <div className="m-4 max-w-xs pb-6 mx-auto overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-700">
             <img className="object-cover w-full h-56"
                  src={image}
                  alt="avatar"/>
